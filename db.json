@@ -12,6 +12,6 @@
     "name": "typicode"
   },
   "users": [
-    { "id": 1, "name": "Jake Christopher Vega" }
+    { "email": "jakevegazzz@gmail.com", "company": "SCI","name": "Jake Christopher Vega", "password": "1234" }
   ]
 }
